@@ -1,6 +1,6 @@
 # LTSM (Recurrent Neural Network) for Tweet Generation
 
-This is an experiment in using a double stacked LTSM to build a character model that can generate novel tweets.
+This is an experiment in using a double stacked LTSM to build a character model that can generate novel tweets. Most of the code is modified from the excellent examples provided in the (Keras Example Folder)[https://github.com/fchollet/keras/tree/master/examples].
 
 Here's some examples of this trained on political tweets, and then fine tuned on the tweets of Donald Trump...
 
